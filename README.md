@@ -46,7 +46,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
     git pull upstream master
     git push
     ```
-    
+
     Alternatively, GitHub also provides syncing now - click "Fetch upstream" at the top of your repo below "Code" button.
 
 - If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
@@ -93,7 +93,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 ## Contributors ✨
 
-SR No   | Project | Author  
+SR No   | Project | Author
 --- | --- | ---
 1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) | [Ravi Chavare](https://github.com/chavarera)
 2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)| [Murilo Pagliuso](https://github.com/DarkCeptor44)
